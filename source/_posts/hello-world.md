@@ -1,39 +1,15 @@
 ---
-title: Hello World
-categories: root
+title: 开天辟地
+index_img: /img/pages/p-1688538358217.jpg
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+从原来的虚拟主机升级为独立服务器，找到了 [Hexo](https://hexo.io/)，配上插件 [Fluid](https://github.com/fluid-dev/hexo-theme-fluid) 改一改，一切都是那么顺理成章，于是就开辟了我的小宇宙。
 
-### Create a new post
+古老的 jQuery 依旧驰骋在疆场，但 zTree 已然江河日下，我懒得混社区，嫌麻烦；就像我骑行一样，经常一个人骑游，懒得跟队伍（当然了，技不如人也是一个关键问题）
 
-``` bash
-$ hexo new "My New Post"
-```
+也可能是年纪大了，不知道为啥还想写点儿东西，好不好的，自己看着玩儿吧。自己的空间，想说啥就说点儿啥（😎 坚决遵纪守法），不开评论也不用管你们有什么评价（🥶 绝对不能开评论，否则容易被封服务器），说不定哪天我也突然 Over 了 或者 空间停止交费了，这里也就灰飞湮灭，我觉得挺好。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+未来我可能会聊点儿技术，未必会聊到点儿上；聊点儿管理，未必会说的很深；聊点儿社会，未必会说的很直白；随心所欲吧，俗话说得好————我的地盘我做主，不过既然把楼都搭起来了，不坚持写点儿东西，也有些对不起自己，你说是不是？
 
-### Run server
+之前外面传播出去的网址应该都是 zTree 的 API 文档页面，这个首页很可能没多少人会主动访问，我也不会到处传播这个首页，所以，一切都随缘吧。（我估计会偷偷的看流量 👻 ）
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
