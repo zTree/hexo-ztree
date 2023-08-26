@@ -480,7 +480,7 @@ categories:
 |**符号**|**LaTeX**|
 | :-----: | :-----: |
 |$( \bigl( \Bigl( \biggl( \Biggl( \dots \Biggr] \biggr] \Bigr] \bigr] ]$|( \bigl( \Bigl( \biggl( \Biggl( \dots \Biggr] \biggr] \Bigr] \bigr] ]|
-|$\{ \bigl \{ \Bigl \{ \biggl \{ \Biggl \{ \dots \Biggr\rangle \biggr\rangle \Bigr\rangle \bigr\rangle \rangle$|\{ \bigl \{ \Bigl \{ \biggl \{ \Biggl \{ \dots \Biggr\rangle \biggr\rangle \Bigr\rangle \bigr\rangle \rangle|
+|$\\{ \bigl\\{ \Bigl\\{ \biggl\\{ \Biggl\\{ \dots \Biggr\rangle \biggr\rangle \Bigr\rangle \bigr\rangle \rangle$|\{ \bigl\{ \Bigl\{ \biggl\{ \Biggl\{ \dots \Biggr\rangle \biggr\rangle \Bigr\rangle \bigr\rangle \rangle|
 |$\vert \big \vert \Big \vert \bigg \vert \Bigg \vert \dots \Bigg \vert \bigg \vert \Big \vert \big \vert$|\vert \big \vert \Big \vert \bigg \vert \Bigg \vert \dots \Bigg \vert \bigg \vert \Big \vert \big \vert|
 |$\lfloor \bigl\lfloor \Bigl\lfloor \biggl\lfloor \Biggl\lfloor \dots \Biggr\rceil \biggr\rceil \Bigr\rceil \bigr\rceil \rceil$|\lfloor \bigl\lfloor \Bigl\lfloor \biggl\lfloor \Biggl\lfloor \dots \Biggr\rceil \biggr\rceil \Bigr\rceil \bigr\rceil \rceil|
 |$\uparrow \big\uparrow \Big\uparrow \bigg\uparrow \Bigg\uparrow \dots \Bigg\Downarrow \bigg\Downarrow \Big\Downarrow \big\Downarrow \Downarrow$|\uparrow \big\uparrow \Big\uparrow \bigg\uparrow \Bigg\uparrow \dots \Bigg\Downarrow \bigg\Downarrow \Big\Downarrow \big\Downarrow \Downarrow|
