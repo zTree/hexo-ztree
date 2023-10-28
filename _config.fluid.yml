@@ -347,6 +347,7 @@ navbar:
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "有趣的作品", icon: "iconfont icon-books",
       submenu: [
+        { key: 'TensorflowJs 测试（2023）', link: 'https://treejs.cn/tensorflow', target: "_blank"},
         { key: '生命的游戏（2018）', link: 'https://treejs.cn/game/game-of-life/pages/index.html', target: "_blank"},
         { key: '考考你的记忆力（2017）', link: 'https://treejs.cn/game/memory/index.html', target: "_blank" },
         { key: '博彩球（2017）', link: 'https://treejs.cn/game/colorBall/ball.html', target: "_blank" },
